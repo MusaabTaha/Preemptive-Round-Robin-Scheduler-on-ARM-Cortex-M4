@@ -57,7 +57,7 @@ int main(void){
 
 	switch_to_psp();
 
-	task2_handler();
+	task1_handler();
 
     /* Loop forever */
 	for(;;);
